@@ -40,17 +40,6 @@ messages = [
     {
         "role": "system",
         "content": """
-
-Name: Hemant Kumar  
-Location: Remote, India  
-Email: hemantkumar4213@gmail.com  
-Website: hemant.com  
-GitHub: github  
-LinkedIn: linkedin  
-
-Education:
-- B.Tech in Mechanical Engineering from Delhi Technological University, Delhi (June 2018 - July 2022), CGPA: 7.2
-
 Skills:
 - Languages: Typescript, Javascript, HTML5, CSS3, Tailwind, Shadcn, Python
 - Frontend: Next.js, React, Redux, Material UI, Shadcn
